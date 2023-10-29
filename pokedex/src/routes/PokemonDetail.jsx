@@ -15,7 +15,7 @@ const PokemonDetail = () => {
       <h1>{pokemon.name}</h1>
       <LazyLoadImage
         alt={pokemon.name}
-        src={pokemon.sprites.other.dream_world.front_default}
+        src={pokemon.sprites.other["official-artwork"].front_default}
         width='200px'
       />
       <p>Habilidad: {pokemon.abilities[0].ability.name}</p>
