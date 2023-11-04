@@ -1,15 +1,9 @@
 import { useLoaderData } from "react-router-dom";
-import { getPokemon } from "../services/getPokemon";
 import { LazyLoadImage } from "react-lazy-load-image-component";
-
-export async function loader({ params }) {
-  const pokemon = await getPokemon(params.pokemonId);
-  console.log(pokemon);
-  return { pokemon };
-}
+import { loader } from "../services/loader";
 
 const PokemonDetail = () => {
-  const { pokemon } = useLoaderData();
+  const { pokemon } = useLoaderData(loader);
   return (
     <>
       <h1>{pokemon.name}</h1>
