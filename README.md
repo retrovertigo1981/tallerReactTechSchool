@@ -4,9 +4,9 @@
 
 Este proyecto es una Pokédex web desarrollada con React, Vite y Material-UI. Permite a los usuarios explorar los primeros 151 pokémons y ver detalles específicos de cada uno.
 
-[![Desktop](https://i.imgur.com/stVpgkO.png)]
-[![Mobile](https://i.imgur.com/hYYRUpQ.png)]
-[![Mobile_Pokemon_Detail](https://i.imgur.com/il1jNYK.png)]
+![Desktop](https://i.imgur.com/stVpgkO.png)
+![Mobile](https://i.imgur.com/hYYRUpQ.png)
+![Mobile_Pokemon_Detail](https://i.imgur.com/il1jNYK.png)
 
 ## Características
 
