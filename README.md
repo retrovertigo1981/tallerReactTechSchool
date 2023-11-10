@@ -2,9 +2,9 @@
 
 Este proyecto es una Pokédex web desarrollada con React, Vite y Material-UI. Permite a los usuarios explorar los primeros 151 pokémons y ver detalles específicos de cada uno.
 
-![Vista Desktop](https://drive.google.com/file/d/14ggfxKDjejmX8BAhDm0aw6NaAdsm9qlX/view?usp=drive_link)
-![Vista Mobile](https://drive.google.com/file/d/1POQL6It0wcPiBdpo94uunM57POf4Uzzn/view?usp=drive_link)
-![Vista Mobile Pokemon Datail](https://drive.google.com/file/d/1pKMcTjpRecsfmNp3DEKFaPy71mCeCILV/view?usp=drive_link)
+[Imgur](https://i.imgur.com/stVpgkO.png)
+[Imgur](https://i.imgur.com/hYYRUpQ.png)
+[Imgur](https://i.imgur.com/il1jNYK.png)
 
 ## Características
 
