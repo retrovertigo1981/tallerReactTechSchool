@@ -22,7 +22,7 @@ const Header = () => {
             color: "#FFFFFF",
           }}
         >
-          Pokedex
+          Pokédex
         </h1>
       </LazyLoad>
 
