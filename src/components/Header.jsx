@@ -1,4 +1,3 @@
-import LazyLoad from "react-lazyload";
 import "@fontsource/press-start-2p";
 import pokeballSvg from "../assets/pokeball.svg";
 import gameboysvg from "../assets/gameboysvg.svg";
@@ -14,17 +13,16 @@ const Header = () => {
       }}
     >
       <img src={pokeballSvg} alt='Pokeball logo' />
-      <LazyLoad>
-        <h1
-          style={{
-            fontFamily: "'Press Start 2P'",
-            marginLeft: "20px",
-            color: "#FFFFFF",
-          }}
-        >
-          Pokédex
-        </h1>
-      </LazyLoad>
+
+      <h1
+        style={{
+          fontFamily: "'Press Start 2P'",
+          marginLeft: "20px",
+          color: "#FFFFFF",
+        }}
+      >
+        Pokédex
+      </h1>
 
       <img src={gameboysvg} alt='game boy logo' style={{ height: "40px" }} />
     </nav>

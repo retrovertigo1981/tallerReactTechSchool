@@ -1,10 +1,12 @@
 # Pokédex con React, Vite y Material-UI
 
+[![CodeFactor](https://www.codefactor.io/repository/github/retrovertigo1981/tallerreacttechschool/badge)](https://www.codefactor.io/repository/github/retrovertigo1981/tallerreacttechschool)
+
 Este proyecto es una Pokédex web desarrollada con React, Vite y Material-UI. Permite a los usuarios explorar los primeros 151 pokémons y ver detalles específicos de cada uno.
 
-[Imgur](https://i.imgur.com/stVpgkO.png)
-[Imgur](https://i.imgur.com/hYYRUpQ.png)
-[Imgur](https://i.imgur.com/il1jNYK.png)
+[![Desktop](https://i.imgur.com/stVpgkO.png)]
+[![Mobile](https://i.imgur.com/hYYRUpQ.png)]
+[![Mobile_Pokemon_Detail](https://i.imgur.com/il1jNYK.png)]
 
 ## Características
 
