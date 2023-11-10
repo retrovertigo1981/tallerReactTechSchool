@@ -22,7 +22,7 @@ Este proyecto es una Pokédex web desarrollada con React, Vite y Material-UI. Pe
 
 ## Instalación
 
-1. Clona el repositorio: `git clone [URL_DEL_REPOSITORIO]`
+1. Clona el repositorio: `git clone https://github.com/retrovertigo1981/tallerReactTechSchool`
 2. Instala las dependencias: `npm install`
 3. Inicia la aplicación: `npm run dev`
 
